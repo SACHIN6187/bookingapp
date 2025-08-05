@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/monubhargav/MyHome.git
+   git clone https://github.com/SACHIN6187/bookingapp
    cd MyHome
 2. **Install dependencies:**
    ```bash
